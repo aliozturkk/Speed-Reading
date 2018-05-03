@@ -1,0 +1,12 @@
+
+
+
+
+
+ZAMAN NEDIR?
+
+Zaman, çevremizi oluþturan üç boyutlu mekan koordinatlarýna ilave olarak dördüncü boyutu oluþturan fiziksel bir boyutun adýdýr. Einstein’den beri, yaþam çerçevemizi oluþturan evrenimizi uzay-zaman birlikteliði içinde “dört boyutlu” bir yapý olarak algýlamaktayýz. Kartezyen sisteme göre üç tane olan (en-boy-yükseklik gibi kavramlarla ifade edilen) mekan boyutlarý nesnelerin uzaydaki konumlarýný belirlerken, dördüncü boyut olan zaman, nesnelerin hareket ve deðiþimlerini, bir baþka deyiþle, süreçleri belirler.
+
+Fizikte zaman kavramý genellikle “düzensizliðin” bir ölçüsü olan entropi kavramý ile iliþkilendirilir. Entropi, termodinamiðin temel yasalarýndan bir tanesidir ve evrendeki tüm maddi sistemlerin doðal olarak azami düzensizlik ve asgari enerji durumuna göre dönüþme eðiliminin bir ifadesidir. Örneðin, bir kabýn içinde çýrpýlan bir yumurtanýn zamanla aký ve beyazýnýn birbirinden ayrýlmasý, sonrasýnda ise tekrar toparlanarak kýrýlmýþ yumurta kabuðunun içine girerek tam ve bütün bir yumurta haline dönüþmesi, bildiðimiz fizik kurallarý içinde imkansýzdýr. Böyle bir film izlediðimizde, bunun tersten oynatýlan bir görüntü olduðuna hükmederiz. Zira normal zaman akýþý içerisinde kýrýlan yumurta, saðlam yumurtaya göre daha yüksek bir entropi deðerine sahiptir. Yani, daha olasýdýr ve çevremizde sürekli gördüðümüz gibi hep kýrýlma ve daðýlma yönünde gerçekleþen olaylardan birisidir. Sýkýlan diþ macunun tüpe geri girmemesi, bir köþeye býrakýlan maddi bir nesnenin zaman içinde çeþitli saiklerle yýpranýp daðýlmasý gibi süreçler, entropi kanunun sonuçlarýdýr. Gerçekleþme ihtimali yüksek hadiseler, önceki duruma göre entropisi yüksek durumlardýr ve genellikle bunlar gerçekleþir. Bu nedenle masamýzý düzenli tutmak için sürekli enerji harcarýz ve enerji harcanmadýðý takdirde daðýlma ve yýpranma kaçýnýlmazdýr.
+
+Canlýlýk ise bu evrensel kuralýn dýþýnda görünen özel bir durumdur. Canlýlar, sürekli daha karmaþýk yapýlanmalara giderek, en azýndan ilk geliþme ve büyüme dönemlerinde bu entropi kuralýna karþý gelebiliyor gibidirler. Bunun temel nedeni ise canlýlýðýn sürekli olarak enerji harcayabilmesi ve metabolizma sonucu ürettiði enerjinin büyük bir kýsmýný ýsý enerjisi olarak çevresine vermek suretiyle bedeni bir arada tutmayý zorlaþtýran entropiyi “tahliye” edebilme özelliðidir (Schrödinger, 1946).
